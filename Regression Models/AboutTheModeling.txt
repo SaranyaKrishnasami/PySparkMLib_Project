@@ -1,0 +1,5 @@
+
+In this PySpark analysis, a linear regression model was developed to predict yearly average customer spend based on several input features: 'Avg Session Length', 'Time on App', 'Time on Website', and 'Length of Membership'. 
+The features were assembled into a vector using the VectorAssembler for model training. 
+The model achieved a Root Mean Squared Error (RMSE) of 10.5 and an R-squared (R²) value of 0.98. 
+These metrics indicate that the model has a strong predictive performance and a good fit to the data, accurately capturing the relationship between the input features and the predicted spend.
