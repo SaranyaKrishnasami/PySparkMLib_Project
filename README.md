@@ -24,9 +24,7 @@ Unsupervised - Data trained against unlabeled historical data
     
 Contents of the Repository:
 
-Regression Problem - Graduate Admissions from an Indian Perspective - Admission Dataset (https://www.kaggle.com/datasets/mohansacharya/graduate-admissions)
-
-- The repository contains exercise files for basic operations in PySpark using Python and California House prices data available on Google collab dataset folder.
-- The Regression prediction PySpark project is to build a predictive model for Hyundai Heavy Industries 
+- The repository contains exercise files for basic operations in PySpark using Python 
+- The Regression prediction PySpark project predicting the customer yearly spend using Linear Regression Model
 - Recommender System project built on PySpark for Collaborative filtering
 - NLP project - SMS Spam collection Dataset
